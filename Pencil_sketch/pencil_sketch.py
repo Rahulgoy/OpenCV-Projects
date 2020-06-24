@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 import matplotlib.image as mpimg
 
-image = cv2.imread('image.jpg')
+img = cv2.imread('image.jpg')
 #plt.imshow(img)
 
 conversion_pct = 0.20
